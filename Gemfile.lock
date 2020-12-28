@@ -1,0 +1,40 @@
+GIT
+  remote: https://github.com/jpmckinney/fastcsv.git
+  revision: 32a473bb934bebc4e9b3a1462373bf066f70b38b
+  specs:
+    fastcsv (0.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ccsv (1.1.0)
+    csvjson (1.0.1)
+    csvreader (1.2.4)
+      csvjson (>= 1.0.0)
+      csvyaml (>= 0.1.0)
+      tabreader (>= 1.0.1)
+    csvyaml (1.0.0)
+    fasterer-csv (2.1.0)
+    fastest-csv (0.0.4)
+    rcsv (0.3.1)
+    simple_importer (0.1.0)
+    smarter_csv (1.2.6)
+    tabreader (1.0.1)
+    tabular (0.4.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ccsv
+  csvreader
+  fastcsv!
+  fasterer-csv
+  fastest-csv
+  rcsv
+  simple_importer
+  smarter_csv
+  tabular
+
+BUNDLED WITH
+   2.1.4

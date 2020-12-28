@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'fastcsv', github: 'jpmckinney/fastcsv'
+gem 'fasterer-csv'
+gem 'fastest-csv'
+gem 'smarter_csv'
+gem 'csvreader'
+gem 'ccsv'
+gem 'tabular'
+gem 'simple_importer'
+gem 'rcsv'
